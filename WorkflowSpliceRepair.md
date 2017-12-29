@@ -1,10 +1,17 @@
 # Workflow for replacing failed splices on audio tape. 
 
+## Overview. 
+The following is a workflow for repairing failed splices on audio tape.  
 
-The following is a workflow for repairing failed splices on audio tape.   
 
+The splicing tape used in this workflow is archival-grade.  The solvent used is Ethyl alchohol.  Ethyl alchohol, or any alternate solvent, should be spot-checked on an unrecorded section of the audio tape being treated before proceeding.  
 
-1) Carefully remove the backing of the failed splicing tape.   
+An example of failed splicing tape adhesive.  
+![](). 
+
+## Workflow. 
+1) Carefully remove the backing of the failed splicing tape.  
+
   
 Splice backing being removed.  
 ![](). 
