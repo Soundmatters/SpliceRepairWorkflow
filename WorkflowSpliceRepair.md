@@ -38,7 +38,7 @@ Note: Ethyl alchohol, or any alternate solvent, should be spot-checked on an unr
 
 ---
 
-3) Using only the side of the swab, in an upward rolling motion, lift the disolved adhesive off the audio tape.  Repeat steps 2 and 3) as needed.
+3) Using only the side of the swab, in an upward rolling motion, lift the disolved adhesive off the audio tape.  Repeat steps 2 and 3, as needed.
 
 ---
 *Example: old adhesive being lifted from the audio tape*  
