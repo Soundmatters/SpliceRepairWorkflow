@@ -8,7 +8,7 @@ Tools and supplies:
 >archival-quality splicing tape  
 >splicing block  
 >swabs  
->solvent (ethyl alchol)  
+>solvent (ethyl alchohol)  
 
 
 
