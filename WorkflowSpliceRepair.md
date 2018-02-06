@@ -3,12 +3,12 @@
 ## Overview. 
 The following is a workflow for repairing failed splices on audio tape.  
 
-Tools and supplies:
+For this workflow, you will need the following tools and supplies:
 
->archival-quality splicing tape  
->splicing block  
->swabs  
->solvent (ethyl alchohol)  
+  * archival-quality splicing tape  
+  * splicing block  
+  * swabs  
+  * solvent (ethyl alchohol)  
 
 
 
@@ -45,7 +45,7 @@ Note: Ethyl alchohol, or any alternate solvent, should be spot-checked on an unr
 ![](splice_4.jpg).  
 
 ---
-4) Place the cleaned audio tape in a splicing block.  Join the two pieces of audio tape and apply splicing tape; a 3/8 to 1/2-inch piece of splicing tape is usualy sufficient.  
+4) Place the cleaned audio tape in a splicing block.  Butt the two pieces of audio tape together to form a tight joint. Apply splicing tape; a 3/8 to 1/2-inch piece of splicing tape is usualy sufficient.  
   
   
 ---
