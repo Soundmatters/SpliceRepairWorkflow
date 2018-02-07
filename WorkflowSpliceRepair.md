@@ -12,7 +12,7 @@ For this workflow, you will need the following tools and supplies:
 
 
 
-Note: Ethyl alchohol, or any alternate solvent, should be spot-checked on an unrecorded section of the audio tape being treated before proceeding. Test should confirm that the solvent will not alter its back-coat, base or emulsion layer. 
+Note: Ethyl alchohol, or any alternate solvent, should be spot-checked on an unrecorded section of the audio tape being treated before proceeding; the spot-check should confirm that the solvent will not alter its back-coat, base or emulsion layer. 
   
 
 ---
